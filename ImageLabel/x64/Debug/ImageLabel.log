@@ -1,0 +1,5 @@
+﻿  LabelSegmen.cpp
+D:\Project\ProjectCustomer\TaiDoDo\ImageLabel\ImageLabel\LabelSegmen.cpp(23,2): warning C4190: 'ID_TO_RGB' has C-linkage specified, but returns UDT 'cv::Mat' which is incompatible with C
+E:\OpenCV\opencv\build\include\opencv2\core\mat.hpp(801): message : see declaration of 'cv::Mat'
+     Creating library D:\Project\ProjectCustomer\TaiDoDo\ImageLabel\x64\Debug\ImageLabel.lib and object D:\Project\ProjectCustomer\TaiDoDo\ImageLabel\x64\Debug\ImageLabel.exp
+  ImageLabel.vcxproj -> D:\Project\ProjectCustomer\TaiDoDo\ImageLabel\x64\Debug\ImageLabel.dll
